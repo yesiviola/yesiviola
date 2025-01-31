@@ -2,7 +2,7 @@
 - 🚀 Desarrolladora Full Stack | React | Next.js | Python | OCR & AI Enthusiast
 - 🌱 tengo espiritu de emprendedora y me fascina aprender nuevas tecnologias
 - finalice el Bootscamp y preparandome en las tecnologias, Javascript, TypeScript, React, Vite, Next.Js, Tailwind CSS, Bootstrap, material UI,
-- 💡 Apasionada por el desarrollo web y la inteligencia artificial aplicada, con experiencia en la creación de soluciones innovadoras para procesamiento de datos, análisis de imágenes        y desarrollo de interfaces modernas y eficientes
+- 💡 Apasionada por el desarrollo web y la inteligencia artificial aplicada, con experiencia en la creación de soluciones innovadoras para procesamiento de datos, análisis de imágenes       y desarrollo de interfaces modernas y eficientes
 
 🛠️ Tecnologías y Herramientas
 
@@ -14,7 +14,3 @@
 - bases de datos relacionales, no relacionales entre otras tecnologias.
 - Otras de mis habilidades soy musico profesional, violista ejecutante de orquesta sinfonica.
 
-<!---
-yesiviola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
