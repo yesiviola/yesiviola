@@ -1,8 +1,8 @@
 - 👋 Hola, Soy Yesenia Gonzalez  @yesiviola
 - 🚀 Desarrolladora Full Stack | React | Next.js | Python | OCR & AI Enthusiast
 - 🌱 tengo espiritu de emprendedora y me fascina aprender nuevas tecnologias
-- finalice el Bootscamp y preparandome en las tecnologias, Javascript, TypeScript, React, Vite, Next.Js, Tailwind CSS, Bootstrap, material UI,
-- 💡 Apasionada por el desarrollo web y la inteligencia artificial aplicada, con experiencia en la creación de soluciones innovadoras para procesamiento de datos, análisis de imágenes       y desarrollo de interfaces modernas y eficientes
+-  Javascript, TypeScript, React, Vite, Next.Js, Tailwind CSS, Bootstrap, material UI,
+- 💡 Apasionada por el desarrollo web y la inteligencia artificial aplicada, con experiencia en la creación de soluciones innovadoras para procesamiento de datos, análisis de imágenes y desarrollo de interfaces modernas y eficientes
 
 🛠️ Tecnologías y Herramientas
 
