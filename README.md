@@ -3,7 +3,7 @@
 - 🌱 tengo espiritu de emprendedora y me fascina aprender cada dia 
 - 💡 Apasionada por el desarrollo web y la inteligencia artificial aplicada, con experiencia en la creación de soluciones innovadoras para procesamiento de datos, análisis de imágenes y desarrollo de interfaces            modernas y eficientes
 
-   🛠️ Tecnologías y Herramientas
+  🛠️ Tecnologías y Herramientas
 
 🔹 Frontend: React.js, Next.js, TypeScript, Vite, TailwindCSS, Material-UI, Bootstrap
 🔹 Backend: Node.js, Express, FastAPI, Flask
